@@ -18,4 +18,4 @@ Este repositório contém uma função em Python para encontrar segmentos iguais
 ### Saída
 ![Captura de tela 2025-02-17 163414](https://github.com/user-attachments/assets/41849ab3-5972-445c-8113-36eff9fa18af)
 
-## Click AQUI para acessar o códico
+## Click [AQUI](https://github.com/tomaziu/Sequencias_Lista/blob/main/lista_sequenciais.py) para acessar o códico
