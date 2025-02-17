@@ -1,5 +1,3 @@
-from pprint import pprint
-
 def encontrar_sequencias_repetidas(a):
     
     listadup = []
